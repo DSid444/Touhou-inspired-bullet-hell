@@ -2,7 +2,7 @@
 
 This is a bullet hell game inspired by the Touhou series. The player controls a character and must dodge intricate patterns of enemy bullets while defeating bosses and collecting power-ups.
 
-#Features
+##Features
 
 -Player movement in 2D space (WASD)
 
@@ -23,7 +23,7 @@ This is a bullet hell game inspired by the Touhou series. The player controls a 
 -Visual effects for bomb explosions and bullet patterns
 
 
-Controls
+##Controls
 
 -W / A / S / D – Move player
 
@@ -36,7 +36,7 @@ Controls
 -ESC – Open menu or quit
 
 
-Installation / Running
+##Installation / Running
 
 -Install Raylib
 
@@ -63,7 +63,7 @@ Installation / Running
 -Run the game
 
 
-Assets
+##Assets
 
 -Player, boss, and pickup sprites
 
