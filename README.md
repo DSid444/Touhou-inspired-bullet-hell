@@ -2,7 +2,7 @@
 
 This is a bullet hell game inspired by the Touhou series. The player controls a character and must dodge intricate patterns of enemy bullets while defeating bosses and collecting power-ups.
 
-Features
+#Features
 
 -Player movement in 2D space (WASD)
 
