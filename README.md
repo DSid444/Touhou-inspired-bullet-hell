@@ -1,7 +1,7 @@
 # Touhou-inspired-bullet-hell
 
 This is a bullet hell game inspired by the Touhou series. The player controls a character and must dodge intricate patterns of enemy bullets while defeating bosses and collecting power-ups.
-
+![Image](https://github.com/user-attachments/assets/35644d78-264e-4b07-a620-3d5b2796ab9d)
 ## Features
 
 -Player movement in 2D space (WASD)
