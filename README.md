@@ -73,7 +73,7 @@ This is a bullet hell game inspired by the Touhou series. The player controls a 
 
 -Sound effects for hits and power-ups
 
--Future Improvements
+## Future Improvements
 
 -Add multiple levels or bosses
 
