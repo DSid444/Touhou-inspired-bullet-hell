@@ -4,14 +4,23 @@ This is a bullet hell game inspired by the Touhou series. The player controls a 
 
 Features
 -Player movement in 2D space (WASD)
+
 -Shooting mechanics with upgrades and cooldowns
+
 -Boss fights with multiple phases and bullet patterns
+
 -Mini-enemies (“mobs”) that spawn during boss fights
+
 -Health and bomb system
+
 -Pickups for health and weapon upgrades
+
 -Game over and retry mechanics
+
 -Audio feedback for shooting, power-ups, and collisions
+
 -Visual effects for bomb explosions and bullet patterns
+
 
 Controls
 -W / A / S / D – Move player
